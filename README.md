@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨<br>📚 Atualmente estou cursando Desenvolvimento de Sistemas<br>🎯 Objetivo: Biólogo.<br>🎲 Fun fact: Amante de MPB!</p>
+<p align="left">✨<br>📚 Atualmente estou cursando Desenvolvimento de Sistemas.<br>🎯 Objetivo: Biólogo.<br>🎲 Fun fact: Amante de MPB!</p>
 
 ###
 
